@@ -1,5 +1,11 @@
+import DragAndDrop from "./components/DragAndDrop";
+
 function App() {
-  return <></>;
+  return (
+    <>
+      <DragAndDrop />
+    </>
+  );
 }
 
 export default App;
